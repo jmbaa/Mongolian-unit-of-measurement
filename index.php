@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Монгол жин</title>
+    <title>Монголын уламжлалт хэмжүүр</title>
     <meta charset="utf-8">
 
     <!-- bootstrap san gaa duudaj bn  -->
