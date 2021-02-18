@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>B180910046 lab2</title>
+    <title>Монгол хэмжүүр</title>
     <meta charset="utf-8">
 
     <!-- bootstrap san gaa duudaj bn  -->
